@@ -1,3 +1,8 @@
+/// COLABORADORES: ///
+/// Marcus Vínicius Fernandes Lima - 92311773 ///
+/// Natan Rodrigo Faria Vaz - 92310556 ///
+/// Lucas Gabriel Rodrigues Valadares - 92310851 ///
+
 import java.util.Scanner;
 
 public class Main {
